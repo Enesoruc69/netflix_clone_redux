@@ -27,7 +27,6 @@
 - **Millify**: For formatting large numbers in a user-friendly format.
 - **The Movie Database API (TMDB)**: Source for fetching movie data.
 
-
 ![GIF](netflix.gif)
 
-# netflix_clone_redux
+
